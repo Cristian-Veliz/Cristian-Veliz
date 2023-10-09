@@ -21,6 +21,7 @@ Por lo que las principales tecnologías que manejo son:
 
 - **Javascript** 
 - **React.js**
+- **Redux**
 - **Node.js**
 - **Express.js**
 - **PostgreSQL**
