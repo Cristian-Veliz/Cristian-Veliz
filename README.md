@@ -30,14 +30,14 @@ Por lo que las principales tecnologías que manejo son:
 
 incluyendo **HTML**, **CSS**, **Vite** entre otras herramientas.
 
-Mis conocimientos sobre diseño y mis pasión por ello, lo fui adquiriendo a lo largo de los años cuando estudie y trabaje en mundo de la Arquitectura. 
+Mis conocimientos sobre diseño y las habilidades proactivas, lo fui adquiriendo a lo largo de los años cuando estudie y trabaje en mundo de la Arquitectura. 
 
-### No dudes en contactarme, será un placer ### 
-Juntos podriamos realizar un gran proyecto que cambie la vida de personas y cambiar la nuestra también.  
 ### ¡Muchas Gracias! ###
 
 ### Contacta Conmigo ###
+Juntos podriamos realizar un gran proyecto que cambie la vida de personas y cambiar la nuestra también.  
 
 [Linkedin](https://www.linkedin.com/in/cristianvelizfullstack/)
 
 Correo: cristianveliz6@gmail.com
+
