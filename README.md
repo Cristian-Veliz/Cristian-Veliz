@@ -7,7 +7,7 @@ de proyectos. Desde el ***Front-end*** y el ***Back-end***.
 
 ## ¿Qué me apasiona?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
-programador y a seguir formandome y creciendo Día a Día. 
+programador y a seguir formandome y creciendo día a día. 
 
 ## ¿A dónde me dirijo?
 Mi objetivo principal es ayudar a las personas a través la tecnología. Poder dejar mi aporte en este mundo y mi huella a través del código🎆
@@ -34,6 +34,8 @@ Mis conocimientos sobre diseño y mis pasión por ello, lo fui adquiriendo a lo 
 ### No dudes en contactarme, será un placer ### 
 Juntos podriamos realizar un gran proyecto que cambie la vida de personas y cambiar la nuestra también.  
 ### ¡Muchas Gracias! ###
+
+### Contacta Conmigo ###
 
 [Linkedin](https://www.linkedin.com/in/cristianvelizfullstack/)
 
