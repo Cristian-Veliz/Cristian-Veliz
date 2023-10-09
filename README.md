@@ -35,7 +35,7 @@ Mis conocimientos sobre diseño y las habilidades proactivas, lo fui adquiriendo
 ### ¡Muchas Gracias! ###
 
 ### Contacta Conmigo ###
-Juntos podriamos realizar un gran proyecto que cambie la vida de personas y cambiar la nuestra también.  
+Juntos podriamos realizar un gran proyecto que cambie la vida de personas.
 
 [Linkedin](https://www.linkedin.com/in/cristianvelizfullstack/)
 
