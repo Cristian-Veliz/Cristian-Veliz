@@ -15,7 +15,7 @@ Mi objetivo principal es ayudar a las personas a través la tecnología. Poder d
 
 
 ## ¿Qué tecnologías uso?
-En el Prestigioso Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
+En Prestigioso Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental
 para despegar en mi carrera🚀 
 Por lo que las principales tecnologías que manejo son: 
 
