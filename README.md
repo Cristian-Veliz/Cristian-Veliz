@@ -32,12 +32,12 @@ incluyendo **HTML**, **CSS**, **Vite** entre otras herramientas.
 
 Mis conocimientos sobre diseño y las habilidades proactivas, lo fui adquiriendo a lo largo de los años cuando estudie y trabaje en mundo de la Arquitectura. 
 
-### ¡Muchas Gracias! ###
-
 ### Contacta Conmigo ###
 Juntos podriamos realizar un gran proyecto que cambie la vida de personas.
 
-[Linkedin](https://www.linkedin.com/in/cristianvelizfullstack/)
+🔗 [Linkedin](https://www.linkedin.com/in/cristianvelizfullstack/)
 
-Correo: cristianveliz6@gmail.com
+📁 [Portfolio](https://porfolio-web-rkse.vercel.app/)
+
+✉️ cristianvelizdev@gmail.com
 
